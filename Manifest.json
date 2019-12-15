@@ -1,7 +1,7 @@
 {
   "name": "www.petikdua.com",
   "short_name": "Petikdua",
-  "start_url": "https://www.petikdua.com/",
+  "start_url": "/",
   "display": "standalone",
   "background_color": "#fff",
   "theme_color": "#2196f3",
